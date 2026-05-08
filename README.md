@@ -1,4 +1,4 @@
-# ESP32 Fire System YOLOOOOO
+# ESP32 Fire System
 
 This project is an ESP32-based fire alarm simulation sketch.
 
