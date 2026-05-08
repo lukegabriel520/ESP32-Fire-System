@@ -1,4 +1,4 @@
-# ESP32 Fire System brbrbrbrbrrbrb
+ESP32 Fire System brbrbrbrbrrbrb
 
 What it does
 - Reads an analog value from a potentiometer on GPIO 32.
